@@ -8,7 +8,7 @@ Si vous cliquez à un autre endroit que sur la cible, vous perdez une vie.
 
 #### /!\ Attention, vous n'avez que 3 vies !
 
-Vous pouvez accéder au rendu du site en [cliquant ici](https://guillaumepirard.github.io/AIM_Trainer/ "Rendu du site").
+Vous pouvez accéder au rendu du site en [cliquant ici](https://guillaumepirard.github.io/aim_trainer/ "Rendu du site").
 
 ![Slide](images/capture.PNG)
 
